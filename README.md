@@ -1,4 +1,4 @@
 # MyProject
-this is my first gitHub reprojetory
+This is my first gitHub reprojetory
 <br>
 author - Sushyamal maji
