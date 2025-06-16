@@ -155,7 +155,7 @@ HAVING COUNT(*) > 1
 
 ### 3. CTAS (Create Table As Select)
 
-- **Task 6: Create Summary Tables**: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
+**Task 6: Create Summary Tables**: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
 
 ```sql
 CREATE TABLE book_issued_cnt AS
@@ -169,7 +169,7 @@ GROUP BY b.isbn, b.book_title;
 
 ### 4. Data Analysis & Findings
 
- **Task 8: Find Total Rental Income by Category**:
+ **Task 7: Find Total Rental Income by Category**:
 
 ```sql
 SELECT 
